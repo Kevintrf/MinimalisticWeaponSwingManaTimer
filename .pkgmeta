@@ -1,0 +1,6 @@
+package-as: MinimalisticWeaponSwingManaTimer
+
+# Development files that shouldn't ship to players.
+ignore:
+  - tests
+  - TODO.md

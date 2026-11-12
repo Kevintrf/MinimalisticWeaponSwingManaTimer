@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: Minimalistic Weapon Swing Mana Timer
+## Notes: Thin swing timer and mana five-second-rule bar.
+## Version: 1.0.0
+## X-License: GPL-3.0-or-later
+## SavedVariables: MinSwingManaTimerDB
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibClassicSwingTimerAPI\LibClassicSwingTimerAPI.lua
+
+config.lua
+bar.lua
+core.lua
